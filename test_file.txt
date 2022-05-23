@@ -1,1 +1,2 @@
 To jest plik testowy!
+Dodanie nowej zmiany!!
