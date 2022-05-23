@@ -1,2 +1,2 @@
 To jest plik testowy!
-Dodanie nowej zmiany!!
+Dodanie nowej zmiany!!Poznajemy Git.
